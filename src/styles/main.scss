@@ -1,9 +1,13 @@
-@import 'test';
+.input-group{
+  margin: 20px 0;
+}
 
-body{
-  background-color: yellow;
-  h1{
-    color: blue;
-    font-family: 'Helvetica'
-  }
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+td:first-of-type {
+  height: 200px;
+  width: 250px;
 }

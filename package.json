@@ -42,6 +42,13 @@
     "webpack-merge": "^0.7.3"
   },
   "dependencies": {
-    "autoprefixer-loader": "^3.2.0"
+    "autoprefixer-loader": "^3.2.0",
+    "axios": "^0.9.1",
+    "lodash": "^4.6.1",
+    "react-google-maps": "^4.7.1",
+    "react-redux": "^4.4.0",
+    "react-sparklines": "^1.4.2",
+    "redux": "^3.3.1",
+    "redux-promise": "^0.5.1"
   }
 }
